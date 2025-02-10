@@ -35,11 +35,10 @@
       "teaser",
       "featured-article",
       "blockquote",
-      "article-details",        
+      "article-details",
       "simple-form",
       "form",
-      "form-embed",
-      "quote"
+      "form-embed"
     ]
   },
   {
