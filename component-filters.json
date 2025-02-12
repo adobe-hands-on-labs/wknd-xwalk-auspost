@@ -23,7 +23,6 @@
     "id": "section",
     "components": [
       "offer",
-      "adaptive-form-reference",
       "text",
       "image",
       "button",
